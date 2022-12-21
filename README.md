@@ -8,6 +8,9 @@
     Objective is make informed decisions by using Python/Pandas/Matplotlib skills to summarize,analyze and visualize the data. 
 
 ## Results
+Description of differences in ride sharing data amongh dif city types. 
+
+![](https://github.com/SuniAnalytics/PyBer_Analysis/blob/main/analysis/Screenshot_SummaryDataFrame.png)
 
 
 ## Summary
