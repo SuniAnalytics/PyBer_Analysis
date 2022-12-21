@@ -17,7 +17,7 @@
    
    - Number of rides: More rides taken in Urban (68%), followed by Suburban (26%) and rural (5%))
    - Number of drivers providing rides are very closely co-related to # of rides in the city types. More than 80% of drivers opted for Urban even though the avg fare is ver low compared to other city types
-   - Avg per ride & driver is higher in rural ($34,$55) and low in urban city types ($24,$16)
+   - Avg per ride & driver is higher in rural ($34, $55) and low in urban city types ($24, $16)
    
    ### Detailed Analysis:
    
