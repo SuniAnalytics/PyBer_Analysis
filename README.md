@@ -12,13 +12,19 @@
    Below is the summary of differences in ride sharing patterns among diff city types.
    
    - Rural:
-   		- Rides
-   		- Drivers
-   		- Fares
+   		- Rides: 125 rides, 5% of total rides
+   		- Drivers: 78 drivers, 3% of total drivers
+   		- Fares: $4.3K, 7% of total fare collected
 
    - Suburban:
+   		- Rides: 625 rides, 26% of total rides
+   		- Drivers: 490 drivers, 16% of total drivers
+   		- Fares: $19.3K, 30% of total fare collected
 
    - Urban:
+   		- Rides: 1625 rides, 68% of total rides
+   		- Drivers: 2405 drivers, 81% of total drivers
+   		- Fares: $39.9K, 63% of total fare collected
    
 
 ![](https://github.com/SuniAnalytics/PyBer_Analysis/blob/main/analysis/Screenshot_SummaryDataFrame.png)
