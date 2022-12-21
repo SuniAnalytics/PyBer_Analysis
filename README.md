@@ -11,7 +11,11 @@
 
    Below is the summary of differences in ride sharing patterns among diff city types.
    
-   
+   - Rural
+
+   - Suburban
+
+   - Urban
    
 
 ![](https://github.com/SuniAnalytics/PyBer_Analysis/blob/main/analysis/Screenshot_SummaryDataFrame.png)
