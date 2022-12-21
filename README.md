@@ -9,9 +9,13 @@
 
 ## Results
 
-
+   Below is the summary of differences in ride sharing patterns among diff city types.
+   
+   
+   
 
 ![](https://github.com/SuniAnalytics/PyBer_Analysis/blob/main/analysis/Screenshot_SummaryDataFrame.png)
+
 ![](https://github.com/SuniAnalytics/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
