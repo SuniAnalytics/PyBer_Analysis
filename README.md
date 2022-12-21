@@ -11,6 +11,9 @@
 
    Below is the summary of differences in ride sharing patterns among diff city types.
    
+   
+   ### Detailed Analysis:
+   
    - Rural:
    		- Rides: 125 rides, 5% of total rides
    		- Drivers: 78 drivers, 3% of total drivers
