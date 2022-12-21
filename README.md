@@ -41,7 +41,7 @@
    		- Fares: $39.9K, 63% of total fare collected
    		- Avg Fare per ride:  $24.53
    		- Avg Fare per driver: $16.57
-   
+    
 
 ![](https://github.com/SuniAnalytics/PyBer_Analysis/blob/main/analysis/Screenshot_SummaryDataFrame.png)
 
